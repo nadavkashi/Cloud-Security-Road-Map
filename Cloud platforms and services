@@ -1,0 +1,65 @@
+**What is Cloud Computing?**
+
+Cloud computing has revolutionized the way organizations handle digital operations.
+It enables people and organizations to access computer resources via the internet.
+This allows businesses to move computing from on-site servers into environments that can include the cloud and even multi-cloud setups.
+A cloud platform enables businesses to develop and test cloud-native applications, build them, and store, back up, and recover data. 
+It also offers capabilities like streaming video and audio, embedding information into processes, delivering software on demand, and analyzing data.
+
+Benefits of moving to the cloud include:
+*   Decreased Capital Expenditure (CapEx)
+*   Reduced infrastructure maintenance
+*   Increased availability and reliability
+*   Scalability of on-demand resources
+*   Lower operational costs
+*   Remote access and facilitated collaboration
+*   Support for multiple devices
+*   Optimized infrastructure for speed and performance
+*   Enhanced security
+*   Access to the most up-to-date technology
+
+**The Big Three Cloud Providers**
+
+Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP) are the three cloud service providers dominating the cloud market worldwide.
+They are described as the "big three". These providers bring experience and expertise to their reliable and feature-rich platforms.
+
+Here is an overview of each and their key differences:
+
+1.  **Amazon Web Services (AWS)**
+    *   **Identity**: AWS is the **current market leader** and the biggest cloud computing platform. It is a subsidiary of Amazon.com, Inc..
+    *   **Background**: AWS started as an internal cloud platform and became publicly available in 2006. It is considered the **most mature cloud platform** and one of the first providers.
+    *   **Scale**: As of September 2021, AWS had 33 geographic regions with 105 availability zones, planning to add more. It served over 600 edge locations and 12 regional edge caches. It offers more than 200 to over 250 fully featured services.
+    *   **Characteristics**: AWS offers a wide range of services from networking to robotics and is considered the **gold standard in cloud reliability and security**. It has more compute capacity compared to Azure and GCP. Most major software vendors make their programs available on AWS. It offers pay-as-you-go pricing. AWS rakes in one of every three dollars spent on cloud services and delivered 54% of Amazon's total operating income in 2023.
+    *   **Considerations**: Support must typically be purchased. The sheer number of services can be overwhelming for newcomers. It has comparatively limited options for hybrid cloud according to one source, though others list various hybrid options like AWS Outposts and VMware Cloud on AWS. Amazon is reported to slash prices to fend off competition.
+
+2.  **Microsoft Azure**
+    *   **Identity**: Microsoft Azure is the **second-largest cloud platform** and is considered AWS's chief rival. It is an offering of Microsoft.
+    *   **Background**: Azure was established in 2010 to provide enterprises with a capable platform, later renamed 'Microsoft Azure' in 2014.
+    *   **Scale**: As of September 2021, Azure ran 64 regions with 15 under construction, maintaining 126 availability zones with 37 more being built. It maintained 192 edge locations globally, with 4 in the US government cloud. It offers over 200 products and services.
+    *   **Characteristics**: Azure is particularly tailored to support Microsoft-centric enterprises, making cloud migration easier for these organizations. More than 95% of Fortune 500 companies use Microsoft Azure today. It is not limited to Windows-based services and supports open-source languages, technologies, and platforms. Azure has an impressive set of over 200 artificial intelligence (AI), machine learning (ML), and analytics services. It offers great support for hybrid cloud strategies. Consensus suggests Azure currently has the **lowest on-demand pricing**, and enterprise customers already using Microsoft services benefit from lower costs.
+    *   **Considerations**: Azure has fewer service offerings compared to AWS and is particularly geared towards enterprise customers. Azure's largest instance is reportedly the most expensive per hour compared to AWS and GCP.
+
+3.  **Google Cloud Platform (GCP)**
+    *   **Identity**: Compared to AWS and Azure, GCP is the **smallest of the big three cloud providers**. It is a suite of cloud computing services by Google.
+    *   **Background**: GCP was established in 2008, originally as App Engine. It has established a strong foothold in the cloud business in less than a decade, strengthening Google's products like search and YouTube.
+    *   **Scale**: As of September 2021, GCP had 40 cloud regions with eight new ones coming soon, 121 zones, and 187 edge locations. It currently offers over 200 services spanning computing, networking, big data, and more.
+    *   **Characteristics**: GCP is the **fastest-growing** of the big three. It offers high-end big data analytics solutions, machine learning and artificial intelligence tools, and easy interaction with containers and Kubernetes. It plays nicely with other Google services and products. GCP has excellent support for containerized workloads and utilizes Google's global fiber network. It provides IaaS, PaaS, and SaaS globally. It is primarily a service for developing and maintaining original applications from its hyper-scale data centers.
+    *   **Considerations**: GCP has limited services compared to AWS and Azure and limited support for certain enterprise use cases according to one source.
+
+**Choosing a Provider & Key Differences Summarized:**
+Choosing the right cloud provider depends on your specific use case. Factors to consider include regional availability for performance and compliance, the specific services needed, integration with existing systems, and pricing.
+All three cover common computing needs, but differ in service implementation and specific features. Specialized services show more significant differences.
+Pricing plans are competitive and based on customer requirements, usage, and services.
+All three platforms are expanding their coverage by adding more regions and zones. They all provide specialized cloud solutions for the government, and AWS and Azure offer services for the Chinese market.
+
+**Future Impact and Areas of Influence**
+
+The sources highlight several areas indicating the future impact and direction of these platforms:
+
+*   **Continued Growth and Competition**: The cloud market is highly competitive. While AWS is the market leader, Microsoft and Google are growing quickly to challenge its dominance. Azure's annual growth rate is 46%, GCP's is 54%, and AWS's is 37%. The company expects GCP business to grow 20% in 2024. Competitors are building facilities, innovating new services, and offering new packages and pricing plans to compete.
+*   **Focus on AI and Machine Learning**: All three providers are heavily invested in AI and ML. Azure highlights its strength in AI, ML, and analytics services. GCP is considered the frontrunner in AI advancement, thanks in part to TensorFlow, and offers services like Vertex AI for training and deploying models. AWS also provides significant AI/ML services like SageMaker and Lex. This area is likely to be a major battleground and source of innovation.
+*   **Hybrid and Multi-Cloud Strategies**: More customers are implementing multi-cloud strategies to leverage the strengths of each provider and avoid vendor lock-in. All three support hybrid and multi-cloud environments, with Azure noted for great support in this area. This trend suggests future cloud environments will increasingly be complex mixes of different providers and on-premises infrastructure.
+*   **Specialized Services and Differentiation**: Providers are differentiating through specialized services. Microsoft is targeting the large enterprise market segment. Google is differentiating with multiple integrated open-source projects and third-party services, as well as focusing on areas like containers and data analytics. AWS continues to offer a vast range of services, including exploring areas like quantum computing.
+*   **Job Market**: Cloud computing jobs correlate with high growth and salaries. Software developer positions are expected to rise significantly (17% by 2033). Cloud skills are increasingly appealing to employers. The growth of these platforms directly fuels demand for skilled professionals, impacting future career paths in IT and technology.
+
+In summary, cloud computing is a fundamental shift towards internet-based access to computing resources, offering significant business benefits. AWS, Azure, and GCP are the leading providers, each with unique strengths, histories, and market approaches. Their future impact will be shaped by their rapid growth, intense competition, innovation in areas like AI/ML and specialized services, and the increasing adoption of hybrid and multi-cloud strategies, all of which contribute to a growing demand for cloud expertise.
